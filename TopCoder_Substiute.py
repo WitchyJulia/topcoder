@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[37]:
-
-
 key = str(raw_input("Key:").split())
 code = str(raw_input("Code:").split())
 key_lst = list(key)
