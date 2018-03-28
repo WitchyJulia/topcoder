@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[31]:
-
-
 xs = input()
 ys = input()
 times = input()
